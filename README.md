@@ -1,4 +1,5 @@
-# Bodhi Globa Analysis - Quantitative Data Collection Monitoring Pipeline
+# Bodhi Globa Analysis
+## Quantitative Data Collection Monitoring Pipeline
 
 1. Please place the dataset in the data folder
 
