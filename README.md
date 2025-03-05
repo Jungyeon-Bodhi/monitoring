@@ -9,7 +9,9 @@
 4. Please download the following libraries
 
 -> Pandas: https://pandas.pydata.org/
+
 -> Openpyxl: https://openpyxl.readthedocs.io/en/stable/
+
 -> Just open your mac-terminal and copy & paste the following lines
 
 * pip install pandas
